@@ -5,7 +5,7 @@ Sou graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é 
 ---
 
 ## 🚀 Sobre Mim
-* 🧠 **Dados & ML:** Tenho interre em *Knowledge Discovery in Databases* (KDD) e modelagem preditiva para desafios do setor público e Privado.
+* 🧠 **Dados & ML:** Tenho interesse em modelagem preditiva para desafios do setor público e privado, além de experiência no uso de Knowledge Discovery in Databases (KDD) para mineração de dados.
 * 🌐 **IoT & Edge AI:** Desenvolvimento de soluções com ESP32, MicroPython e otimização de modelos de Deep Learning (TensorFlow Lite) para hardware limitado.
 * 📊 **Business Intelligence:** Criação de dashboards profissionais em Power BI e Tableau para visualização de dados complexos.
 

@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Leonel
 
-### 🎓 Cientista da Computação | Cientista & Analista de Dados  
+### 🎓 Cientista da Computação | Cientista & Analista de Dados | Tec. em Redes de Computadores 
 SOu graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é focado em transformar dados em decisões estratégicas e em construir sistemas eficientes.
 
 ---
@@ -27,28 +27,19 @@ SOu graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é 
 
 ## 📈 Projetos em Destaque
 
-### 🧠 [Reconhecimento de Dígitos com Edge AI](link-do-repositorio)
+### 🧠 [Reconhecimento de Dígitos com Edge AI](https://github.com/lucasvinisan/IA_LucasLeonel.git)
 Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos móveis e sistemas embarcados.
 * **Acurácia:** 98.99%
 * **Destaque:** Uso de *Post-Training Quantization* para redução de latência.
 
-### 📊 [Análise de Séries Temporais - Segurança Pública](link-do-repositorio)
+### 📊 [Análise de Séries Temporais - Segurança Pública](https://github.com/lucasvinisan/CVLI-CEARA-2014---2025-.git)
 Estudo detalhado dos dados de criminalidade no Ceará (2014-2025), utilizando decomposição de tendência e sazonalidade para previsão de cenários futuros. (Em desenvolvimento)
 
-### ⚙️ [Compilador Mini-Lang](link-do-repositorio)
-Desenvolvimento de um compilador do zero, abrangendo as etapas de análise léxica, sintática e semântica com foco em integridade de tipos.
-
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+## 📫 Contato
+* 💼 **LinkedIn:** [Perfil](https://www.linkedin.com/in/lucas-leonel-ba55863a2)
+* 📧 **E-mail:** [leonellucasdev@gmail.com]
+* 📍 **Juazeiro do Norte:** Ceará, Brasil
 
 ---
-
-## 📫 Vamos conversar?
-* 💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seu-perfil)
-* 📧 **E-mail:** [Seu E-mail]
-* 📍 **Localização:** Ceará, Brasil
-
----
-*“A capacidade de converter dados em conhecimento é a maior ferramenta de impacto social que temos hoje.”*

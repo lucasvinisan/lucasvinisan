@@ -25,7 +25,7 @@ Sou graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é 
 
 ## 📈 Projetos em Destaque
 
-### 🧠 [Reconhecimento de Dígitos com Edge AI](https://github.com/lucasvinisan/IA_LucasLeonel.git)
+### 🧠 [Reconhecimento de Dígitos](https://github.com/lucasvinisan/IA_LucasLeonel.git)
 Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos móveis e sistemas embarcados.
 * **Acurácia:** 98.99%
 * **Destaque:** Uso de *Post-Training Quantization* para redução de latência.

@@ -27,7 +27,7 @@ Sou graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é 
 
 ### 🧠 [Reconhecimento de Dígitos](https://github.com/lucasvinisan/IA_LucasLeonel.git)
 Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos móveis e sistemas embarcados.
-* **Acurácia:** 98.99%
+* **Acurácia:** 98.75%
 * **Destaque:** Uso de *Post-Training Quantization* para redução de latência.
 
 ### 📊 [Análise de Séries Temporais - Segurança Pública](https://github.com/lucasvinisan/CVLI-CEARA-2014---2025-.git)

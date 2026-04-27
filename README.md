@@ -16,7 +16,7 @@ Sou graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é 
 | :--- | :--- |
 | **Linguagens** | Python, SQL (MySQL), C, Java, MicroPython |
 | **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow Lite, KDD |
-| **Backend** | Flask, Integração de APIs |
+| **Backend** | Flask, Docker (Containerização) e Integração de APIs |
 | **Bancos de Dados** | MySQL |
 | **Visualização** | Power BI, Tableau, Matplotlib |
 | **IoT/Sistemas** | ESP32, Simulação via Wokwi, Análise de Circuitos |

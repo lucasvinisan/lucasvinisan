@@ -14,11 +14,11 @@ Sou graduado em **Ciência da Computação** pela **Universidade Federal do Cari
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python, SQL (MySQL), C, Java, MicroPython |
-| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow Lite, KDD |
-| **Backend** | Flask, Docker (Containerização) e Integração de APIs |
-| **Bancos de Dados** | MySQL |
-| **Visualização** | Power BI, Tableau, Matplotlib |
+| **Linguagens** | Python, SQL, C, Java, MicroPython |
+| **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow Lite, Matplotlib |
+| **Backend** | Flask, Docker, Integração de APIs |
+| **Bancos de Dados** | MySQL (Relacional), Modelagem de Dados |
+| **Visualização** | Power BI, Tableau |
 | **IoT/Sistemas** | ESP32, Simulação via Wokwi, Análise de Circuitos |
 
 ---

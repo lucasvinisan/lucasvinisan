@@ -1,6 +1,6 @@
 
 ### 🎓 Cientista da Computação | Cientista & Analista de Dados | Tec. em Redes de Computadores 
-Sou graduado pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é focado em transformar dados em decisões estratégicas e construir sistemas eficientes.
+Sou graduado em **Ciência da Computação** pela **Universidade Federal do Cariri (UFCA)**. Minha atuação é **focada** em transformar dados em decisões estratégicas e construir sistemas eficientes.
 
 ---
 

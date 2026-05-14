@@ -37,7 +37,8 @@ Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos mó
 ---
 
 ## 📫 Contato
-* 💼 **LinkedIn:** [Perfil](https://www.linkedin.com/in/lucas-leonel-ba55863a2)
+* 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/lucas-leonel-ba55863a2)
+* 📄 **Currículo:** [Meu Currículo](https://drive.google.com/file/d/1-e-AddhgDDvCh15gWCWEX7xfY5E4HaVD/view?usp=drive_link) 
 * 📧 **E-mail:** [leonellucasdev@gmail.com]
 * 📍 **Juazeiro do Norte:** Ceará, Brasil
 

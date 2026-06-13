@@ -26,7 +26,7 @@ Sou graduado em **Ciência da Computação** pela **Universidade Federal do Cari
 ## 📈 Projetos em Destaque
 
 ### 📊 [Análise de Séries Temporais - Segurança Pública](https://github.com/lucasvinisan/CVLI-CEARA-2014---2025-.git)
-Estudo detalhado dos dados de criminalidade no Ceará (2014-2025), utilizando decomposição de tendência e sazonalidade para previsão de cenários futuros. (Em desenvolvimento)
+Estudo detalhado dos dados de criminalidade no Ceará (2014-2025), utilizando decomposição de tendência e sazonalidade para previsão de cenários futuros. 
 
 ### 🧠 [Reconhecimento de Dígitos](https://github.com/lucasvinisan/IA_LucasLeonel.git)
 Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos móveis e sistemas embarcados.

@@ -34,11 +34,6 @@ Aplicação de Machine Learning (ML) e análise descritiva de dados para compree
 * **Modelos:** Random Forest e RepTree. 
 * **Destaque:** Random Forest com acurácia geral de 97%.
 
-### 🧠 [Reconhecimento de Dígitos](https://github.com/lucasvinisan/IA_LucasLeonel.git)
-Implementação de uma CNN para o dataset MNIST, otimizada para dispositivos móveis e sistemas embarcados.
-* **Acurácia:** 98.75%
-* **Destaque:** Uso de *Post-Training Quantization* para redução de latência.
-
 ---
 
 ## 📫 Contato
